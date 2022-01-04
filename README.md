@@ -16,6 +16,8 @@ Unimplemented Features
 - Add source APIs to the config as currently the API is hardcoded
 - Support multiple endpoints for each source
 - Add `GasAdjustment` and `GasPrice` for `TerraLCD`
+- Find propoer way to update price to the web server
+- Change to Websocket server
 
 ## Oracle Contract
 ### `InstantiateMsg`
