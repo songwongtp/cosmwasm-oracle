@@ -11,4 +11,5 @@ MULTIPLIER = 1e9
 DATA_SOURCES = "binance,coingecko"
 
 SYMBOLS = "BTC,ETH,LUNA"
-INTERVAL = 5
+# seconds
+INTERVAL = 30 
