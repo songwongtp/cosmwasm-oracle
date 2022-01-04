@@ -1,0 +1,1 @@
+e4359a628b2847721ee2d54149e3ebe2fdf3cf586f5fcfea9a0811f91dc7c65c  ./target/wasm32-unknown-unknown/release/oracle_contract.wasm
